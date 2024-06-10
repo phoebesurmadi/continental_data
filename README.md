@@ -16,7 +16,7 @@ This repository contains a Python script to crop a Region of Interest (ROI) from
 2. Naviate to the repository directory
    ```bash
     cd continental_data
-4. run the script
+4. Run the script
    ```bash
     python image_crop.py
 
