@@ -1,8 +1,0 @@
-import cv2
-import numpy as np
-from google.colab.patches import cv2_imshow
-# Read the image
-image = cv2.imread("/content/picture.jpg")
-print(“Image read successfully.”)
-roi_x, roi_y, roi_width, roi_height = 400, 400, 600, 600
-print("ROI coordinates defined.")
